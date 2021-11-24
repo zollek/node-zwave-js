@@ -77,8 +77,6 @@
 		"**/.yarn": true,
 		"**/.pnp.*": true
 	},
-	"eslint.nodePath": ".yarn/sdks",
-	"prettier.prettierPath": ".yarn/sdks/prettier/index.js",
 	"[typescript]": {
 		"editor.autoClosingBrackets": "languageDefined"
 	}
